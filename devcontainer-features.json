@@ -1,0 +1,8 @@
+{
+  "features": [
+    {
+      "id": "volta",
+      "name": "Volta as a Devcontainer Feature"
+    }
+  ]
+}
